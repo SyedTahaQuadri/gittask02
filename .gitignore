@@ -6,7 +6,8 @@ bin-release/
 
 # Other files and folders
 .settings/
-
+#all passwords
+passwords.txt
 # Executables
 *.swf
 *.air
